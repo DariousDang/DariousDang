@@ -21,10 +21,9 @@ I enjoy building user-focused applications with **React.js**, **Flutter**, **Nod
 ## 🔭 Key Projects
 
 - **🏦 Finney – Financial Management App** — A Flutter-based mobile app with **Firebase Authentication** and **Firestore**, supporting financial tracking, real-time updates, and budgeting analytics.  
-  > ⚠️ **Android only** — requires an Android device to install and run.
+  [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ngohainnam/Finney-Financial-Management-App/releases/tag/v1.0.0) *Android only*
 - **☕ Frankies Says Melbourne – Brunch Cafe Website** — Real-world production website for a Melbourne café: [frankiesaysmelbourne.com](https://frankiesaysmelbourne.com/) — built with a responsive, mobile-first design.
-- **☕ Dang Good Cafe Website** — Responsive single-page website built with **React.js** to showcase café products, menu, and customer contact.
-- **🛒 Online Grocery Web Application** — Full-stack e-commerce site using **PHP**, **JavaScript**, and **MySQL** with JWT-based secure authentication and real-time AJAX cart updates.
+- **☕ Dang Good Cafe Website** — Responsive single-page website built with **React.js** to showcase café products, menu, and customer contact. [🔗 Live Site](https://dang-good-cafe.vercel.app/)
 
 ---
 
