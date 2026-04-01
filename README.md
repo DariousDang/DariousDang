@@ -33,7 +33,7 @@ I enjoy building user-focused applications with **React.js**, **Flutter**, **Nod
   Contributor to an intern management system that streamlines student internship workflows. Collaborated via GitHub on version control, code reviews, and feature development.  
   🔗 [github.com/WEHI-RCPStudentInternship/student-intern-organiser](https://github.com/WEHI-RCPStudentInternship/student-intern-organiser)
 
-- **Software Engineering Intern — BAP Software** *(Da Nang, Vietnam | Jun – Jul 2024)*  
+- **Software Engineering Intern — BAP Software** *(Da Nang, Vietnam | Oct – jan 2025)*  
   Built responsive UI components with **Angular** and optimised backend APIs with **Node.js**, **Express.js**, and **PostgreSQL** — improving query performance by 15%. Conducted unit testing, resolved SQL injection vulnerabilities, and contributed to Agile sprints.
 
 ---
